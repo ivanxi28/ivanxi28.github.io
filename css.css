@@ -10,6 +10,10 @@ ul, li {
     list-style: none;
 }
 
+p{
+  text-align: center;
+}
+
 ul.slider{
   position: relative;
   width: 100%;
@@ -32,7 +36,7 @@ ul.slider li {
 }
 
 ul.slider li img{
-  width: 689px;
+  width: 659px;
   height: 335px;
   object-fit:scale-down;
 }
